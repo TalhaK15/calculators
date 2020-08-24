@@ -1,4 +1,4 @@
-# faiz-hesaplama
+# Calculators
 
 ## Project setup
 ```
