@@ -1,5 +1,7 @@
 # Calculators
 
+### Live Demo : https://talhak15-calculators.netlify.app
+
 ## Project setup
 ```
 npm install
