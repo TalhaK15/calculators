@@ -1,6 +1,6 @@
 # Calculators
 
-### Live Demo : https://talhak15-calculators.netlify.app
+### Live Demo : https://calculators-one.vercel.app/
 
 ## Project setup
 ```
